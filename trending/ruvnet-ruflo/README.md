@@ -4,40 +4,62 @@ full_name: ruvnet/ruflo
 owner: ruvnet
 url: https://github.com/ruvnet/ruflo
 language: TypeScript
-stars: 25199
-forks: 2742
+stars: 25203
+forks: 2744
 today_stars: 1397
 rank: 9
 date: 2026-03-25
 text: |
-  ```markdown
-  1. 项目定位：ruflo 是一个用于 Claude 的智能代理编排平台，旨在构建和管理多代理系统，实现自动化工作流和对话式 AI 系统。
+  项目定位  
+  Ruflo 是一个面向 Claude 的智能代理编排平台，用于构建和管理多代理系统，支持自动化工作流和对话式 AI 系统。
   
-  2. 核心功能：支持多代理协作、自动化工作流编排、RAG 集成、与 Claude Code/Codex 原生集成、企业级架构设计。
+  核心功能  
+  - 支持部署多代理集群  
+  - 提供自主工作流协调能力  
+  - 集成 RAG（检索增强生成）  
+  - 原生支持 Claude Code / Codex  
+  - 企业级架构设计
   
-  3. 技术特点：基于 TypeScript 构建，具备分布式 swarm 智能，支持模块化扩展，提供高可用性和可维护性，适用于复杂 AI 应用场景。
+  技术特点  
+  基于 TypeScript 构建，具备分布式 swarm 智能、可扩展的架构以及与 Claude 的深度集成，适合构建复杂的 AI 应用。
   
-  4. 适用场景：企业级 AI 系统开发、智能客服、自动化任务处理、多代理协同工作、AI 驱动的业务流程优化。
+  适用场景  
+  - 构建智能客服系统  
+  - 自动化数据处理流程  
+  - 开发多代理协作应用  
+  - 实现对话式 AI 系统  
+  - 企业级 AI 工作流管理
   
-  5. 推荐理由：功能强大且易于集成，适合需要构建复杂 AI 工作流的企业用户，拥有活跃社区和快速发展的生态系统。
-  ```
+  推荐理由  
+  Ruflo 提供强大的代理编排能力，结合 Claude 的强大模型，适合需要构建复杂 AI 系统的开发者和企业，具有高扩展性和易用性。
 ---
 
 # ruvnet/ruflo
 
 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
-```markdown
-1. 项目定位：ruflo 是一个用于 Claude 的智能代理编排平台，旨在构建和管理多代理系统，实现自动化工作流和对话式 AI 系统。
+项目定位  
+Ruflo 是一个面向 Claude 的智能代理编排平台，用于构建和管理多代理系统，支持自动化工作流和对话式 AI 系统。
 
-2. 核心功能：支持多代理协作、自动化工作流编排、RAG 集成、与 Claude Code/Codex 原生集成、企业级架构设计。
+核心功能  
+- 支持部署多代理集群  
+- 提供自主工作流协调能力  
+- 集成 RAG（检索增强生成）  
+- 原生支持 Claude Code / Codex  
+- 企业级架构设计
 
-3. 技术特点：基于 TypeScript 构建，具备分布式 swarm 智能，支持模块化扩展，提供高可用性和可维护性，适用于复杂 AI 应用场景。
+技术特点  
+基于 TypeScript 构建，具备分布式 swarm 智能、可扩展的架构以及与 Claude 的深度集成，适合构建复杂的 AI 应用。
 
-4. 适用场景：企业级 AI 系统开发、智能客服、自动化任务处理、多代理协同工作、AI 驱动的业务流程优化。
+适用场景  
+- 构建智能客服系统  
+- 自动化数据处理流程  
+- 开发多代理协作应用  
+- 实现对话式 AI 系统  
+- 企业级 AI 工作流管理
 
-5. 推荐理由：功能强大且易于集成，适合需要构建复杂 AI 工作流的企业用户，拥有活跃社区和快速发展的生态系统。
-```
+推荐理由  
+Ruflo 提供强大的代理编排能力，结合 Claude 的强大模型，适合需要构建复杂 AI 系统的开发者和企业，具有高扩展性和易用性。
 
 ---
 

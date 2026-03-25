@@ -4,40 +4,62 @@ full_name: hesreallyhim/awesome-claude-code
 owner: hesreallyhim
 url: https://github.com/hesreallyhim/awesome-claude-code
 language: Python
-stars: 31963
-forks: 2222
+stars: 31966
+forks: 2221
 today_stars: 995
 rank: 11
 date: 2026-03-25
 text: |
-  ```markdown
-  项目定位：该项目是一个针对 Anthropic 的 Claude Code 的技能、钩子、命令和插件的精选列表，旨在帮助开发者更好地利用 Claude Code 的功能。
+  项目定位  
+  一个整理 Claude Code 相关技能、插件和工具的开源列表，帮助开发者高效利用 Anthropic 的 Claude 模型。
   
-  核心功能：提供 Claude Code 的技能和插件列表，支持自定义扩展，整合常用工具和框架，提升开发效率，提供示例代码和使用说明。
+  核心功能  
+  - 收录丰富的 Claude Code 技能和插件  
+  - 提供代理协调器和命令行工具  
+  - 维护最新的应用和集成方案  
+  - 便于开发者快速查找和使用资源  
+  - 鼓励社区贡献和扩展  
   
-  技术特点：基于 Python 构建，结构清晰，易于维护和扩展，涵盖多种开发场景，注重实用性和社区贡献。
+  技术特点  
+  基于 Python 构建，专注于与 Anthropic API 的集成，提供结构化的资源分类和更新机制，便于开发者查阅和使用。
   
-  适用场景：适用于需要增强 Claude Code 功能的开发者，用于构建 AI 驱动的应用程序，集成到现有开发流程中，探索 AI 工具的最佳实践。
+  适用场景  
+  - 快速查找 Claude Code 相关工具和插件  
+  - 开发者构建 AI 应用时参考最佳实践  
+  - 学习如何利用 Claude 进行代码生成和任务自动化  
+  - 社区成员参与贡献和维护资源  
+  - 企业寻找定制化 AI 解决方案  
   
-  推荐理由：为 Claude Code 用户提供了丰富的资源和工具，便于快速上手和扩展，是开发者提升生产力的重要参考。
-  ```
+  推荐理由  
+  该项目为 Claude Code 用户提供了全面的资源指南，帮助开发者提升效率，适合希望深入使用 Anthropic 模型的开发者和研究人员。
 ---
 
 # hesreallyhim/awesome-claude-code
 
 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
-```markdown
-项目定位：该项目是一个针对 Anthropic 的 Claude Code 的技能、钩子、命令和插件的精选列表，旨在帮助开发者更好地利用 Claude Code 的功能。
+项目定位  
+一个整理 Claude Code 相关技能、插件和工具的开源列表，帮助开发者高效利用 Anthropic 的 Claude 模型。
 
-核心功能：提供 Claude Code 的技能和插件列表，支持自定义扩展，整合常用工具和框架，提升开发效率，提供示例代码和使用说明。
+核心功能  
+- 收录丰富的 Claude Code 技能和插件  
+- 提供代理协调器和命令行工具  
+- 维护最新的应用和集成方案  
+- 便于开发者快速查找和使用资源  
+- 鼓励社区贡献和扩展  
 
-技术特点：基于 Python 构建，结构清晰，易于维护和扩展，涵盖多种开发场景，注重实用性和社区贡献。
+技术特点  
+基于 Python 构建，专注于与 Anthropic API 的集成，提供结构化的资源分类和更新机制，便于开发者查阅和使用。
 
-适用场景：适用于需要增强 Claude Code 功能的开发者，用于构建 AI 驱动的应用程序，集成到现有开发流程中，探索 AI 工具的最佳实践。
+适用场景  
+- 快速查找 Claude Code 相关工具和插件  
+- 开发者构建 AI 应用时参考最佳实践  
+- 学习如何利用 Claude 进行代码生成和任务自动化  
+- 社区成员参与贡献和维护资源  
+- 企业寻找定制化 AI 解决方案  
 
-推荐理由：为 Claude Code 用户提供了丰富的资源和工具，便于快速上手和扩展，是开发者提升生产力的重要参考。
-```
+推荐理由  
+该项目为 Claude Code 用户提供了全面的资源指南，帮助开发者提升效率，适合希望深入使用 Anthropic 模型的开发者和研究人员。
 
 ---
 

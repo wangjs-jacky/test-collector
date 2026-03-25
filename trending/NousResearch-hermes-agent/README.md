@@ -4,48 +4,58 @@ full_name: NousResearch/hermes-agent
 owner: NousResearch
 url: https://github.com/NousResearch/hermes-agent
 language: Python
-stars: 12628
+stars: 12630
 forks: 1526
 today_stars: 1278
 rank: 10
 date: 2026-03-25
 text: |
-  The agent that grows with you, designed to provide personalized and adaptive assistance through continuous learning.  
-  - Personalized interaction and adaptation based on user behavior  
-  - Integration with large language models for enhanced responses  
-  - Modular architecture for easy extension and customization  
-  - Real-time feedback loop to improve performance over time  
-  - Support for multiple platforms and interfaces  
+  项目定位  
+  Hermes-Agent 是一个能够持续成长的智能代理系统，旨在通过不断学习和适应提升交互体验与任务处理能力。
   
-  Leverages Python and advanced AI techniques to deliver a scalable, intelligent, and user-centric agent solution.  
-  - Personalized customer support and service automation  
-  - Intelligent virtual assistant for individual users  
-  - Customizable AI agent for enterprise applications  
-  - Educational tools with adaptive learning capabilities  
-  - Research platform for AI agent development  
+  核心功能  
+  - 自动学习用户行为与偏好  
+  - 多轮对话管理与上下文理解  
+  - 任务自动化执行与决策支持  
+  - 持续优化模型性能与响应质量  
   
-  A powerful, adaptable AI agent with strong community support and rapid growth, ideal for developers and businesses seeking intelligent automation solutions.
+  技术特点  
+  基于 Python 构建，采用先进的机器学习与自然语言处理技术，具备良好的扩展性与自适应能力，支持多种交互模式。
+  
+  适用场景  
+  - 个人助手与生活管理  
+  - 企业客服与自动化服务  
+  - 数据分析与信息检索  
+  - 智能推荐与个性化服务  
+  
+  推荐理由  
+  Hermes-Agent 通过持续学习和自我优化，提供高效、个性化的智能服务，适合需要长期交互与适应性的应用场景。
 ---
 
 # NousResearch/hermes-agent
 
 The agent that grows with you
 
-The agent that grows with you, designed to provide personalized and adaptive assistance through continuous learning.  
-- Personalized interaction and adaptation based on user behavior  
-- Integration with large language models for enhanced responses  
-- Modular architecture for easy extension and customization  
-- Real-time feedback loop to improve performance over time  
-- Support for multiple platforms and interfaces  
+项目定位  
+Hermes-Agent 是一个能够持续成长的智能代理系统，旨在通过不断学习和适应提升交互体验与任务处理能力。
 
-Leverages Python and advanced AI techniques to deliver a scalable, intelligent, and user-centric agent solution.  
-- Personalized customer support and service automation  
-- Intelligent virtual assistant for individual users  
-- Customizable AI agent for enterprise applications  
-- Educational tools with adaptive learning capabilities  
-- Research platform for AI agent development  
+核心功能  
+- 自动学习用户行为与偏好  
+- 多轮对话管理与上下文理解  
+- 任务自动化执行与决策支持  
+- 持续优化模型性能与响应质量  
 
-A powerful, adaptable AI agent with strong community support and rapid growth, ideal for developers and businesses seeking intelligent automation solutions.
+技术特点  
+基于 Python 构建，采用先进的机器学习与自然语言处理技术，具备良好的扩展性与自适应能力，支持多种交互模式。
+
+适用场景  
+- 个人助手与生活管理  
+- 企业客服与自动化服务  
+- 数据分析与信息检索  
+- 智能推荐与个性化服务  
+
+推荐理由  
+Hermes-Agent 通过持续学习和自我优化，提供高效、个性化的智能服务，适合需要长期交互与适应性的应用场景。
 
 ---
 
