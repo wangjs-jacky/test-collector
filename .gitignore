@@ -4,5 +4,8 @@
 # 依赖
 node_modules/
 
-# 输出
-output/*.json
+# 基础数据（保留）
+# output/trending.json  # 注释掉，允许提交
+
+# 临时文件
+*.tmp
