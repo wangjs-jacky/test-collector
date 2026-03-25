@@ -1,0 +1,8 @@
+# 环境变量
+.env
+
+# 依赖
+node_modules/
+
+# 输出
+output/*.json

@@ -1,0 +1,21 @@
+{
+  "name": "github-trending-collector",
+  "version": "1.0.0",
+  "description": "GitHub Trending 自动化采集项目，使用 Qwen AI 生成分析报告",
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "process": "node scripts/process.mjs",
+    "test": "node --test scripts/__tests__/*.test.mjs",
+    "test-api": "node scripts/test-api.mjs"
+  },
+  "keywords": ["github", "trending", "automation", "qwen", "ai"],
+  "author": "wangjs-jacky",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
